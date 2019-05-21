@@ -40,6 +40,9 @@ body{
   margin-bottom:0px;
   margin-left:0px;
 }
+.row{
+  font-weight:400;
+}
 .c4873{
   color:rgba(0, 0, 0, 0.87);
   font-family:Roboto, sans-serif;
@@ -69,12 +72,9 @@ body{
 .c5167{
   font-weight:400;
 }
-.c5194{
-  font-weight:20;
-}
 .c5369{
   font-size:16px;
-  font-weight:500;
+  font-weight:400;
 }
 .c5396{
   font-weight:400;
@@ -222,8 +222,8 @@ footer.page-footer{
   padding-left:0px;
 }
 .gjs-comp-selected{
-  //font-size:31px;
-  font-weight:300;
+  font-size:31px;
+  font-weight:200;
 }
 .collection{
   text-align:left;
@@ -237,3 +237,10 @@ footer.page-footer{
 a{
   color:black;
 }
+.gjs-comp-selected.c5194{
+  font-weight:400;
+}
+.gjs-comp-selected.c5396{
+  font-weight:400;
+}
+
