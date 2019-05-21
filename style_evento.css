@@ -7,6 +7,9 @@ nav .brand-logo, nav ul a{
 body{
   background-color:rgb(255, 255, 255);
 }
+#ivsgmdq{
+  font-size:39px;
+}
 .col:empty{
   display:table-cell;
   height:75px;
@@ -124,7 +127,4 @@ a{
 }
 .gjs-comp-selected.c5396{
   font-weight:400;
-}
-#ivsgmdq{
-  font-size:39px;
 }
